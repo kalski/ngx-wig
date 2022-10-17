@@ -1,6 +1,6 @@
 {
   "name": "ngx-wig",
-  "version": "13.1.6",
+  "version": "13.1.6-prefixed-css-names",
   "description": "Light-weight WYSIWYG Editor for Angular",
   "keywords": [
     "Angular",
